@@ -1,0 +1,10 @@
+{
+  "local": {
+    "secret": "shhh",
+    "env": "local"
+  },
+  "development": {
+    "secret": "not telling",
+    "env": "dev"
+  }
+}
